@@ -5,4 +5,4 @@ modernas e simples feitas por mim
 exemplo de página
   <br>
 
-<img src="https://i.ibb.co/CW4pQ2N/Screenshot-1.png" height="250" width="300">
+<img src="https://i.ibb.co/CW4pQ2N/Screenshot-1.png" height="250" width="301">
