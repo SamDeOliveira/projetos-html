@@ -1,6 +1,6 @@
 # Video autoplay
-<a href="https://samdeoliveira.github.io/video-autoplay/video-autoplay.html">
-https://samdeoliveira.github.io/video-autoplay/video-autoplay.html <br>
+<a href="https://samdeoliveira.github.io/Projetos%20em%20Html/autoplay-video/">
+https://samdeoliveira.github.io/Projetos%20em%20Html/autoplay-video/ <br>
 <img src="https://uploaddeimagens.com.br/images/004/161/830/original/Screenshot_2.png" height="250" width="300">
 
 # Sobre
@@ -17,7 +17,7 @@ Esse autoplay que fiz funciona em: <br>
 
 
 # Resultado
-<a href="https://samdeoliveira.github.io/video-autoplay/video-autoplay.html">
-https://samdeoliveira.github.io/video-autoplay/video-autoplay.html
+<a href="https://samdeoliveira.github.io/Projetos%20em%20Html/autoplay-video/">
+https://samdeoliveira.github.io/Projetos%20em%20Html/autoplay-video/
   <br>
 <img src="https://uploaddeimagens.com.br/images/004/161/830/original/Screenshot_2.png" height="400" width="500">
