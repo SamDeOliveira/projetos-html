@@ -1,8 +1,8 @@
 # Landing Pages
-modernas e simples feitas por mim 
-
-<a href="https://samdeoliveira.github.io/Projetos-Html/Landing%20Pages/Page%20de%20manuten%C3%A7%C3%A3o/manuten%C3%A7%C3%A3o.html">
-exemplo de página
-  <br>
-
+Simples e Modernas, feitas por mim.
+<div>
+<img src="https://i.ibb.co/kKTxs3p/Screenshot-2.png" height="300" width="360">
+<img src="https://i.ibb.co/0rzM3NX/Screenshot-3.png" height="300" width="360">
+<img src="https://i.ibb.co/VNFrhy4/Screenshot-4.png" height="300" width="470">
 <img src="https://i.ibb.co/CW4pQ2N/Screenshot-1.png" height="250" width="301">
+  </div>
